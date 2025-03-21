@@ -4,7 +4,7 @@ This folder contains the files to build the OmniQuad presented in the paper "Des
 
 Freeflight           |  Physical interaction
 :-------------------------:|:-------------------------:
-![alt text](assets/omniquad_freeflight.GIF)  |  ![alt text](/assets/omniquad_contactflight.GIF)
+![alt text](assets/omniquad_freeflight.GIF)  |  ![alt text](assets/omniquad_contactflight.GIF)
 
 
 ## Overview
